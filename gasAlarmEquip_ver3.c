@@ -1,7 +1,6 @@
 #include <mega128.h>
 #include <delay.h>
 
-//test github
 
 
 int cnt=0;
